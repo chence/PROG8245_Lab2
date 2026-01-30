@@ -10,7 +10,7 @@ Using the widely adopted and powerful NumPy and pandas technology stack, we perf
 
 **Group**: Group1
 
-**GitHub Link**: https://github.com/chence/PROG8245_Lab2.git
+**GitHub Link**: https://github.com/chence/DataCollectionPreProcessing.git
 
 **Team Members**:
 - Ce Chen | 9007166
@@ -28,3 +28,13 @@ $ source .venv/bin/activate
 ```shell
 (.venv)$ quarto render output/lab2.ipynb --to pdf --execute
 ```
+
+## Data-source attribution links
+Since the customer_id field was not found in the provided download link, the data file used in this project was synthesized using ChatGPT.
+
+
+## List of other projects already in your GitHub (max 3 bullet points; link only).
+- https://github.com/chence/TestRepo.git
+- https://github.com/chence/TestOOP.git
+- https://github.com/chence/DataStreamVisualization_workshop.git
+
