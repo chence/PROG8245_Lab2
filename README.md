@@ -21,7 +21,6 @@ Using the widely adopted and powerful NumPy and pandas technology stack, we perf
 $ python -m venv .venv
 $ source .venv/bin/activate
 (.venv)$ pip install -r requirements.txt
-(.venv)$ jupyter lab2.ipynb
 ```
 
 ## Export PDF
